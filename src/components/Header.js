@@ -4,7 +4,10 @@ import React from 'react'
 
 function Header() {
   return (
-    <img></img>
+    <>
+      <div>Header</div>
+      <img></img>
+    </>
   )
 }
 
